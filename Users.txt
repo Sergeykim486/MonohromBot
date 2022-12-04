@@ -1,0 +1,17 @@
+{
+  "response": {
+    "users": [{
+      "user_id": 65241621,
+      "user_f_name": "Sergey",
+      "user_l_name": "Kim",
+      "user_phone_num": "+998977212858",
+      "user_status": "Manager"
+    },{
+      "user_id": 1824124353,
+      "user_f_name": "Vladislav",
+      "user_l_name": "Kan",
+      "user_phone_num": "+998977702858",
+      "user_status": "Master"
+    }]
+  }
+}

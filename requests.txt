@@ -1,0 +1,33 @@
+{
+  "tasks": [{
+    "task_add": 0,
+    "task_add_date": [{
+      "day": 1,
+      "mon": 11,
+      "year": 2022,
+      "hour": 12,
+      "min": 10
+    }],
+    "task_add_manager"
+    "task_from": "company name",
+    "task_item": "printer canon 4410 fix",
+    "task_from_phone_num": "+998977212858",
+    "task_confirm": 0,
+    "task_confirm_date": [{
+      "day": 1,
+      "mon": 11,
+      "year": 2022,
+      "hour": 13,
+      "min": 12
+    }],
+    "task_confirm_master"
+    "task_done": 0,
+    "task_done_date": [{
+      "day": 2,
+      "mon": 11,
+      "year": 2022,
+      "hour": 8,
+      "min": 45
+    }],
+  }]
+}
