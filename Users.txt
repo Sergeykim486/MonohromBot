@@ -1,17 +1,41 @@
 {
   "response": {
-    "users": [{
-      "user_id": 65241621,
-      "user_f_name": "Sergey",
-      "user_l_name": "Kim",
-      "user_phone_num": "+998977212858",
-      "user_status": "Manager"
-    },{
-      "user_id": 1824124353,
-      "user_f_name": "Vladislav",
-      "user_l_name": "Kan",
-      "user_phone_num": "+998977702858",
-      "user_status": "Master"
-    }]
+    "users": [
+      {
+        "user_id": 65241621,
+        "user_f_name": "\u0421\u0435\u0440\u0433\u0435\u0439",
+        "user_l_name": "\u041a\u0438\u043c",
+        "user_phone_num": "+998977212858",
+        "user_status": "Manager"
+      },
+      {
+        "user_id": 1669785252,
+        "user_f_name": "\u0421\u0435\u0440\u0433\u0435\u0439",
+        "user_l_name": "\u041a\u0438\u043c",
+        "user_phone_num": "+998337212858",
+        "user_status": "Master"
+      },
+      {
+        "user_id": 35036430,
+        "user_f_name": "\u0412\u0435\u0440\u043e\u043d\u0438\u043a\u0430",
+        "user_l_name": "\u041f\u043e\u043b\u043b\u0435",
+        "user_phone_num": "+998977552858",
+        "user_status": "Manager"
+      },
+      {
+        "user_id": 1318949831,
+        "user_f_name": "\u0412\u043b\u0430\u0434\u0438\u0441\u043b\u0430\u0432",
+        "user_l_name": "\u041a\u0430\u043d",
+        "user_phone_num": "+998977702858",
+        "user_status": "Master"
+      },
+      {
+        "user_id": 1318949831,
+        "user_f_name": "\u0412\u043b\u0430\u0434\u0438\u0441\u043b\u0430\u0432",
+        "user_l_name": "\u041a\u0430\u043d",
+        "user_phone_num": "+998977702858",
+        "user_status": "Master"
+      }
+    ]
   }
 }
